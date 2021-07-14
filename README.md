@@ -18,6 +18,7 @@ system is the perfect solution for you WINDOWS 10 users out there:
 1) https://www.youtube.com/watch?v=sB_5fqiysi4
 2) https://www.youtube.com/watch?v=x5MhydijWmc
 3) https://www.youtube.com/watch?v=wX75Z-4MEoM
+
 This 3 YouTube videos should guide you to install a Linux operating system Virtual-Machine on WINDOWS 10 if you don't already have one...
 -
 *Python- Once you have installed and successfully logged into your Virtual-Machine, 
