@@ -13,4 +13,4 @@ while True:
   
   
 #the output will be a mess but this is because this code is unpacked and its just a dump of the network packets in hex.
-#in the next code (sniffer.py) we will unpack the packets and it will look visualy better and more readable:)
+#in the next code (sniffer.py) we will unpack the packets and it will look visualy better and more readable!

@@ -1,5 +1,5 @@
-#Packet sniffer in python for Linux
-#Sniffs only incoming TCP packet
+# Sniffer 2
+# This Sniffer sniffs only incoming TCP packet
 
 import socket, sys
 from struct import *
@@ -59,3 +59,6 @@ while True:
 	
 	print 'Data : ' + data
 	print
+	
+	
+#i have analysed this entire code and wrote it from zero

@@ -1,5 +1,5 @@
-# Packet sniffer in python
-# For Linux - Sniffs all incoming and outgoing packets :)
+# Sniffer 3
+# Sniffs all incoming and outgoing packets!
 
 
 import socket, sys
@@ -132,6 +132,4 @@ while True:
 			print 'Protocol other than TCP/UDP/ICMP'
 			
 		print
-
-		
-#this is a bonus code taken from a guide showing all incoming and outgoing network traffic.
+        
