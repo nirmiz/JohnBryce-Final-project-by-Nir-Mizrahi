@@ -134,4 +134,4 @@ while True:
 		print
 
 		
-#this is a bonus code taken from a guide showing all incoming and outgoing network traffic
+#this is a bonus code taken from a guide showing all incoming and outgoing network traffic.
