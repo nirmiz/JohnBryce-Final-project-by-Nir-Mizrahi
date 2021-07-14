@@ -59,3 +59,6 @@ while True:
 	
 	print 'Data : ' + data
 	print
+	
+	
+#i have analysed this entire code and wrote it from zero
