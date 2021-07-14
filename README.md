@@ -5,10 +5,9 @@ REQUIREMENTS:
 1) Linux operating system
 2) Python
 3) Root privilages
-.
-.
-.
-.
+-
+-
+-
 WHAT TO DO IF YOU HAVE WINDOWS OPERATING SYSTEM:
 
 *Linux operating system- This python code can only be run with a Linux operating system and installing a Virtual-Machine with a Linux operating
