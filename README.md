@@ -52,8 +52,11 @@ Sources:
 
 https://diveintopython3.problemsolving.io/
 -
+In depth Python learning course
+
 https://www.binarytides.com/python-packet-sniffer-code-linux/
 -
+dfdf
 https://github.com/EONRaider/Packet-Sniffer
 -
 https://santanderglobaltech.com/en/guide-using-scapy-with-python/
