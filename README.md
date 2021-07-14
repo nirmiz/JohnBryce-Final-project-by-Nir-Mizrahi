@@ -31,7 +31,7 @@ or by clicking on the terminal icon in the top left of your screen which should 
 
 ![terminal](https://user-images.githubusercontent.com/87423500/125613556-51b969d9-3d3b-4358-8d94-31c9f1ceb11f.png)
 
-Once Terminal is Open, Type the command "Sudo apt install python" after typing your password and confirming the download by typing Y, you should be good to go.
+Once Terminal is Open, Type the command "Sudo apt install python" after typing your password and confirming the download by typing Y, The download should start and shouldn't take too long.
 
 -
 
