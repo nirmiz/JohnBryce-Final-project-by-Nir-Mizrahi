@@ -58,11 +58,10 @@ https://www.binarytides.com/python-packet-sniffer-code-linux/
 -
 A full packet sniffer making guide using Python
 
-https://github.com/EONRaider/Packet-Sniffer
--
-
 https://santanderglobaltech.com/en/guide-using-scapy-with-python/
 -
+
+
 https://blog.e-mundo.de/post/a-packet-viewer-and-manipulator-for-scapy/
 -
 https://linuxhint.com/building-your-own-network-monitor-with-pyshark/
