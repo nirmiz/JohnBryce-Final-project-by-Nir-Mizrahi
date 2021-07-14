@@ -35,7 +35,7 @@ Once Terminal is Open, Type the command "Sudo apt install python" after typing y
 
 -
 
-*Root privilages- You wouldn't be able to download python without root privilages, "Sudo" is a command opener to grant access to root privilages.
+*Root privilages- You wouldn't be able to download python or capture network traffic without root privilages, "Sudo" is a command opener to grant access to root privilages.
 All you need to do is to remember the password you used to log-in with:)
 
 -
