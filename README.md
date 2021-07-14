@@ -1,4 +1,4 @@
-# JonBryce Final project by Nir Mizrahi
+# JohnBryce Final project by Nir Mizrahi
 
 REQUIREMENTS:
 -
