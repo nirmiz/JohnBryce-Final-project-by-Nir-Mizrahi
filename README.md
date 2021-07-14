@@ -1,12 +1,12 @@
 # JonBryce Final project by Nir Mizrahi
 
 REQUIREMENTS:
-.
+-
 1) Linux operating system
 2) Python
 3) Root privilages
 -
--
+
 
 
 
