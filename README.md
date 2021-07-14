@@ -1,6 +1,7 @@
 # JonBryce Final project by Nir Mizrahi
 
 REQUIREMENTS:
+-
 
 -
 1) Linux operating system
@@ -12,6 +13,7 @@ REQUIREMENTS:
 
 
 WHAT TO DO IF YOU HAVE WINDOWS OPERATING SYSTEM:
+-
 
 *Linux operating system- This python code can only be run with a Linux operating system and installing a Virtual-Machine with a Linux operating
 system is the perfect solution for you WINDOWS 10 users out there:
