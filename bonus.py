@@ -132,3 +132,6 @@ while True:
 			print 'Protocol other than TCP/UDP/ICMP'
 			
 		print
+
+		
+#this is a bonus code taken from a guide showing all incoming and outgoing network traffic
