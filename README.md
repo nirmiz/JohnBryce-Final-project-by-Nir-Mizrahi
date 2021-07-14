@@ -44,3 +44,14 @@ All you need to do is to remember the password you used to log-in with:)
 AND FINALY once you are done and ready you should now be able to Run the code and capture your Network traffic successfully!
 --
 
+
+Sources:
+-
+
+https://diveintopython3.problemsolving.io/
+https://www.binarytides.com/python-packet-sniffer-code-linux/
+https://github.com/EONRaider/Packet-Sniffer
+https://santanderglobaltech.com/en/guide-using-scapy-with-python/
+https://blog.e-mundo.de/post/a-packet-viewer-and-manipulator-for-scapy/
+https://linuxhint.com/building-your-own-network-monitor-with-pyshark/
+
