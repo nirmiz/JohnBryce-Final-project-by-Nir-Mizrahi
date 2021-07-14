@@ -22,7 +22,7 @@ This 3 YouTube videos should guide you to install a Linux operating system Virtu
 -
 *Python- Once you have installed and successfully logged into your Virtual-Machine, 
 Open the terminal using  Ctrl+Alt+T  
-or by clicking on the terminal icon in the top left of your screen
+or by clicking on the terminal icon in the top left of your screen which should look something like this:
 
 ![terminal](https://user-images.githubusercontent.com/87423500/125613556-51b969d9-3d3b-4358-8d94-31c9f1ceb11f.png)
 
