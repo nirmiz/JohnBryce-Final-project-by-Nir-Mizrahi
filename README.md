@@ -23,7 +23,9 @@ This 3 YouTube videos should guide you to install a Linux operating system Virtu
 *Python- Once you have installed and successfully logged into your Virtual-Machine, 
 Open the terminal using  Ctrl+Alt+T  
 or by clicking on the terminal icon in the top left of your screen
+
 ![terminal](https://user-images.githubusercontent.com/87423500/125613556-51b969d9-3d3b-4358-8d94-31c9f1ceb11f.png)
+
 Once Terminal is Open, Type the command "Sudo apt install python3" after typing your password and confirming the download by typing Y, you should be good to go.
 -
 
