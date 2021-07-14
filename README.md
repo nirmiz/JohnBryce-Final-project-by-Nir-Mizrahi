@@ -20,7 +20,9 @@ system is the perfect solution for you WINDOWS 10 users out there:
 3) https://www.youtube.com/watch?v=wX75Z-4MEoM
 
 This 3 YouTube videos should guide you to install a Linux operating system Virtual-Machine on WINDOWS 10 if you don't already have one...
+
 -
+
 *Python- Once you have installed and successfully logged into your Virtual-Machine, 
 Open the terminal using  Ctrl+Alt+T  
 or by clicking on the terminal icon in the top left of your screen which should look something like this:
