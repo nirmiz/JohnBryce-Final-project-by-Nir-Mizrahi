@@ -58,6 +58,5 @@ https://www.binarytides.com/python-packet-sniffer-code-linux/
 -
 A full packet sniffer making guide using Python
 
-https://linuxhint.com/building-your-own-network-monitor-with-pyshark/
--
+
 
