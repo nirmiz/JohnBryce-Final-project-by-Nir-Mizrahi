@@ -25,10 +25,7 @@ while True:
 	
 
 	tcp_header = packet[iph_length:iph_length+20]
-	
-
 	tcph = unpack('!HHLLBBHHH' , tcp_header)
-	
 	source_port = tcph[0]
 	dest_port = tcph[1]
 	sequence = tcph[2]
@@ -40,8 +37,6 @@ while True:
 	
 	h_size = iph_length + tcph_length * 4
 	data_size = len(packet) - h_size
-	
-	#get data from the packet
 	data = packet[h_size:]
 	
 	print 'Data : ' + data
