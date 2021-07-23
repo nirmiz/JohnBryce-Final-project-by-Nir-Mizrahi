@@ -1,8 +1,7 @@
-# Sniffer by Nir Mizrahi
+# TCP Sniffer by Nir Mizrahi
 
 import socket
 from struct import *
-
 
 s = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_TCP)
 
