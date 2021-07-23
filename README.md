@@ -45,18 +45,9 @@ AND FINALY once you are done and ready you should now be able to Run the code an
 --
 -
 
-Sources:
--
 
 
 
-https://diveintopython3.problemsolving.io/
--
-In depth Python learning course
-
-https://www.binarytides.com/python-packet-sniffer-code-linux/
--
-A full packet sniffer making guide using Python
 
 
 
