@@ -43,20 +43,11 @@ All you need to do is to remember the password you used to log-in with:)
 
 AND FINALY once you are done and ready you should now be able to Run the code and capture your Network traffic successfully!
 --
--
-
-Sources:
--
 
 
 
-https://diveintopython3.problemsolving.io/
--
-In depth Python learning course
 
-https://www.binarytides.com/python-packet-sniffer-code-linux/
--
-A full packet sniffer making guide using Python
+
 
 
 
