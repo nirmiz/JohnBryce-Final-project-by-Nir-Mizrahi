@@ -1,4 +1,4 @@
-# TCP Sniffer by Nir Mizrahi
+# Sniffer by Nir Mizrahi
 
 import socket
 from struct import *
