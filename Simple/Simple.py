@@ -7,4 +7,4 @@ while True:
   print s.recvfrom(65565)
   
   
-
+# I have analysed this entire code and wrote from the start to the end
