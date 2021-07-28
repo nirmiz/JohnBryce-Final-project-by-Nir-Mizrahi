@@ -42,4 +42,4 @@ while True:
 	print
 	
 	
-# I have analysed this entire code and wrote it from zero
+# I have analysed this entire code and wrote from the start to the end.
