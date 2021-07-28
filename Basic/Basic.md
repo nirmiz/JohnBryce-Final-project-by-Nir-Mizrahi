@@ -1,5 +1,5 @@
 To run this Sniffer open the terminal and type the command:
-'Sudo python sniffer1.py'
+'Sudo python Simple.py'
 
 
 Disclaimer:
