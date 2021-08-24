@@ -1,4 +1,4 @@
-# JohnBryce Final project by Nir Mizrahi
+# Nir Mizrahi Packet Sniffer In Python
 
 REQUIREMENTS:
 -
